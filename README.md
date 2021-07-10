@@ -1,5 +1,5 @@
 # NinjaRush
-RunnerGame
+RunnerGame/ NinjaRush
 Ödev için yaptığım ilk özgün oyunum. 3 Levellık oyun.
 
 
